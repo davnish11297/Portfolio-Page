@@ -1,0 +1,109 @@
+img {
+  left: 50px;
+  right: 50px;
+}
+about {
+  right: 80%;
+}
+.img-with-text {
+  position: absolute;
+        width: 60px; /*the image width*/
+        height: 60px; /*the image height*/
+        left: 17%;
+        top: 10%;
+        margin-left: -50px; /*half the image width*/
+        margin-top: -50px;
+}
+div {
+  left: 20%;
+  top: 20%;
+}
+.img-with-text {
+    text-align: justify;
+    width: 50px;
+}
+
+.img-with-text img {
+    display: block;
+    margin: 0 auto;
+}
+p {
+  font-size: 20px;
+  font-family: Arial Narrow;
+}
+.de{
+	float:right;
+	margin-top:250px;
+	padding:12px;
+	width:40px;
+}
+.text{
+	float:left;
+	margin-top:280px;
+	padding:12px;
+	margin-bottom:70px;
+	width:80%;
+	font-weight:bold;
+	font-size:30px;
+}
+img.facebook {
+   position: absolute;
+        width: 30px; /*the image width*/
+        height: 30px; /*the image height*/
+        left: 45%;
+        top: 10%;
+        margin-left: -50px; /*half the image width*/
+        margin-top: -50px;
+}
+img.gmail {
+  position: absolute;
+        width: 30px; /*the image width*/
+        height: 30px; /*the image height*/
+        left: 55%;
+        top: 10%;
+        margin-left: -50px; /*half the image width*/
+        margin-top: -50px;
+}
+img.whatsapp {
+  position: absolute;
+        width: 30px; /*the image width*/
+        height: 28px; /*the image height*/
+        left: 65%;
+        top: 10%;
+        margin-left: -50px; /*half the image width*/
+        margin-top: -50px;
+}
+p {
+  position: absolute;
+  top: 190%;
+}
+.welcome {
+  top: 50%;
+}
+img.bb {
+  position: absolute;
+        width: 200px; /*the image width*/
+        height: 300px; /*the image height*/
+        left: 15%;
+        top: 90%;
+        margin-left: -50px; /*half the image width*/
+        margin-top: -50px;
+}
+img.sultan {
+  position: absolute;
+        width: 200px; /*the image width*/
+        height: 300px; /*the image height*/
+        left: 45%;
+        top: 90%;
+        margin-left: -50px; /*half the image width*/
+        margin-top: -50px;
+}
+img.raees {
+  position: absolute;
+        width: 200px; /*the image width*/
+        height: 300px; /*the image height*/
+        left: 75%;
+        top: 90%;
+        margin-left: -50px; /*half the image width*/
+        margin-top: -50px;
+}
